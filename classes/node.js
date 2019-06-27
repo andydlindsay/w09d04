@@ -3,5 +3,10 @@ module.exports = class Node {
         this.x = x;
         this.y = y;
         this.visited = false;
+        this.above = null;
+        this.right = null;
+        this.left = null;
+        this.below = null;
+        this.active = false;
     }
 }

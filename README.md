@@ -18,12 +18,12 @@
 * Stack - LIFO Last In First Out
 * Queue - FIFO First In First Out
 
-
 ## Recursive Backtracking
 
 1. Choose a starting node
 2. Push starting node onto stack
 
+While there are nodes in the stack/while stack !empty
 3. Find the neighbours of the node
 If there are neighbours that have not been visited
 4. Randomly made a choice to move
@@ -39,33 +39,8 @@ If there are no neighbours to visit
 * Board/Maze
 * Node
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Useful Links
 
 * [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 * [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-* [Programming Mazes](https://youtu.be/Y37-gB83HKE)
-* [Mazes w/o Monsters](http://mazes-wo-monsters.herokuapp.com/)
