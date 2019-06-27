@@ -1,7 +1,7 @@
 # W09D04 Data Structures & Algorithms
 
 ### To Do
-- [ ] Implement a maze generating algorithm
+- [x] Implement a maze generating algorithm
 
 ## Algorithm
 
@@ -24,13 +24,17 @@
 2. Push starting node onto stack
 
 While there are nodes in the stack/while stack !empty
+
 3. Find the neighbours of the node
+
 If there are neighbours that have not been visited
+
 4. Randomly made a choice to move
 5. Link the new node to the first node
 6. Push the new node onto the stack
 
 If there are no neighbours to visit
+
 7. Pop the node off the stack
 
 ## Classes
