@@ -29,7 +29,7 @@ While there are nodes in the stack/while stack !empty
 
 If there are neighbours that have not been visited
 
-4. Randomly made a choice to move
+4. Randomly make a choice to move
 5. Link the new node to the first node
 6. Push the new node onto the stack
 
